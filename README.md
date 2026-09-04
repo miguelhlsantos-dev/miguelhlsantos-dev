@@ -12,8 +12,7 @@ Me chamo Miguel Santos, tenho 19 anos e sou estudante de Análise e Desenvolvime
             src="https://custom-icon-badges.demolab.com/github/stars/miguelhlsantos-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-
- <a href="https://github.com/miguelhlsantos-dev?tab=followers">
+    <a href="https://github.com/miguelhlsantos-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -21,7 +20,7 @@ Me chamo Miguel Santos, tenho 19 anos e sou estudante de Análise e Desenvolvime
         />
     </a>
 
-  <a href="https://www.linkedin.com/in/miguelhlsantos/">
+   <a href="https://www.linkedin.com/in/miguelhlsantos/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
@@ -136,10 +135,43 @@ Me chamo Miguel Santos, tenho 19 anos e sou estudante de Análise e Desenvolvime
 <br/>
 <br/>
 
- <img 
-        align="left" 
-        alt="Principais linguagens" 
-        height="180" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhlsantos-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-    />
+<hr>
+
+### 📚 Atualmente estudando
+
+- ☕ Java e Programação Orientada a Objetos
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🌐 Desenvolvimento de APIs REST
+- 🐘 PostgreSQL e SQL
+- ⚛️ React e Tailwind CSS
+
+<hr>
+
+### 🚀 Projetos
+
+Atualmente, estou desenvolvendo projetos pessoais com o objetivo de colocar em prática meus conhecimentos em Java, Spring Boot, bancos de dados, APIs REST e desenvolvimento web.
+
+Busco utilizar meus projetos como forma de aprendizado contínuo, aplicando boas práticas de programação, arquitetura de software e conceitos aprendidos durante minha formação.
+
+<hr>
+
+### 📫 Contato
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/miguelhlsantos/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+
+ <a href="https://github.com/miguelhlsantos-dev">
+        <img 
+            alt="GitHub" 
+            title="GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
 </p>
