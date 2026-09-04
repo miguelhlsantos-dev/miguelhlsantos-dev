@@ -20,6 +20,14 @@ Me chamo Miguel Santos, tenho 19 anos e sou estudante de Análise e Desenvolvime
             src="https://custom-icon-badges.demolab.com/github/followers/miguelhlsantos-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+<a href="www.linkedin.com/in/miguelhlsantos/">
+    <img 
+        alt="LinkedIn" 
+        title="Meu LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
 </p>
 ---
 
