@@ -13,7 +13,7 @@ Me chamo Miguel Santos, tenho 19 anos e sou estudante de Análise e Desenvolvime
         />
     </a>
 
-    <a href="https://github.com/miguelhlsantos-dev?tab=followers">
+<a href="https://github.com/miguelhlsantos-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
